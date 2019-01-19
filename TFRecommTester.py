@@ -1,3 +1,5 @@
+#author - Theo van Kraay
+
 from pandas import DataFrame
 from io import StringIO
 from functools import reduce
